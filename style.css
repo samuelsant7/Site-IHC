@@ -1,0 +1,164 @@
+body {
+    background-color: #1f1e1e; 
+}
+
+.text-goldlink{
+    color: rgba(187, 166, 114, 0.607);
+}
+#text-paginicial {  
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    color: rgb(230, 230, 230); 
+}
+
+#text-card{
+    font-size: 13px;
+    color: aliceblue;
+}
+#text-card-bold{
+    font-size: 14px;
+    color: aliceblue;
+}
+
+#card-pagina-inicial{
+    background-color: rgb(25, 24, 24);
+    border-radius: 15px;
+}
+
+#text-gold-principal{
+    color: rgb(147, 115, 0)
+}
+
+#card-categ-vencedor{
+    border-radius: 20px;
+    background-color: rgb(188, 153, 27);
+    font-size: 15.5px;
+    color: aliceblue;
+    font-family: Tahoma;
+    transition: box-shadow 0.3s ease;
+    box-shadow: rgba(194, 194, 194, 0.24) 0px 3px 8px; 
+
+}
+
+#card-categ-vencedor:hover{
+    box-shadow: rgb(240, 217, 2) 0px 20px 30px -10px;
+}
+
+
+#card-categ{
+    background-color: rgb(14, 13, 13);
+    border-radius: 20px;
+    font-size: 15.5px;
+    color: rgb(223, 222, 222);
+    font-family: Tahoma;
+    transition: box-shadow 0.3s ease;
+    box-shadow: rgba(99, 99, 99, 0.24) 0px 3px 8px;
+}
+#card-categ-header{
+    background-color: rgb(24, 23, 23);
+    margin: 5px;
+    border-radius: 10px;
+}
+
+#card-categ:hover{
+    box-shadow: rgb(156, 156, 156) 0px 20px 30px -10px;
+}
+#card-categ-header-vencedor{
+    background-color: goldenrod;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+#card-categ-vencedor .card-body {
+    display: none;
+}
+
+
+#card-categ .card-body {
+    display: none;
+}
+
+#card-categ-header-vencedor, #card-categ-header {
+    font-size: 1.15rem; 
+    line-height: 1.2; 
+}
+
+
+h6{
+    font-size: 10px;
+    color: rgb(212, 216, 220);
+}
+
+
+.color-square {
+    width: 20px;
+    height: 20px;
+    background-color: gold;
+    border: 1px solid black;
+}   
+
+#titulo-vencedor{
+    color: whitesmoke;
+}
+
+.titulo-premiacao {
+    color: #c48c01;
+    text-shadow: 2px 2px 4px rgba(71, 37, 0, 0.76);
+    transition: color 0.3s ease-in-out;
+}
+.titulo-premiacao:hover {
+    color: #ffd900; /* Altere para a cor desejada ao passar o mouse */
+}
+
+#container-body-card{
+    background-color: #121111;
+    border-radius: 20px;
+    width: 92%;
+}
+#container-body-card-vencedor{
+    background-color: rgba(217, 175, 70, 0.314);
+    border-radius: 20px;
+    width: 92%;
+}
+
+.card-sobre {
+    background-color: aliceblue;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 100px !important;
+    transition: box-shadow 0.3s ease;
+    box-shadow: rgba(194, 194, 194, 0.24) 0px 3px 8px; 
+}
+
+.card-sobre:hover {
+    box-shadow: rgb(226, 226, 226) 0px 20px 30px -10px;
+}
+
+.card-sobre-body {
+    margin-top: 60px;
+}
+
+.card-img-top-sobre {
+    border-radius: 50%;
+    height: 180px !important;
+    width: 180px !important;
+    position: relative;
+    top: -40px;
+    object-fit: cover;
+    box-shadow: rgba(145, 145, 145, 0.24) 0px 3px 8px;
+}
+
+.gallery{
+	padding: 1px;
+}
+.gallery img{
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0 0 15px rgba(255, 238, 3, 0.3);
+	cursor: pointer;
+}
+#gallery-modal .modal-img{
+	width: 100%;
+}
+
