@@ -108,7 +108,7 @@ h6{
     transition: color 0.3s ease-in-out;
 }
 .titulo-premiacao:hover {
-    color: #ffd900; /* Altere para a cor desejada ao passar o mouse */
+    color: #ffd900; 
 }
 
 #container-body-card{
