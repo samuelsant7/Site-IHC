@@ -7,5 +7,7 @@ Ao desenvolver o site, nossa equipe implementou características de recursividad
 
 Desenvolvedores:
 Samuel Santana Lucas
+
 André Henrique Tarquino de Oliveira
+
 Leandro Sossai de Oliveira
