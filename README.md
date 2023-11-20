@@ -6,6 +6,7 @@ O objetivo do site é proporcionar aos usuários informações sobre o evento, p
 Ao desenvolver o site, nossa equipe implementou características de recursividade e acessibilidade para melhorar a experiência do usuário. Detalhes específicos sobre essas implementações podem ser explorados durante a navegação no site.
 
 Desenvolvedores:
+
 Samuel Santana Lucas
 
 André Henrique Tarquino de Oliveira
